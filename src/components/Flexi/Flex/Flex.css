@@ -1,0 +1,31 @@
+.container {
+    border: 1px solid rgb(248, 144, 7);
+    border-radius: 10%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+span {
+    color: rgb(248, 144, 7);
+}
+
+form input {
+    width: auto;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20%;
+}
+
+*:focus {
+    outline: none;
+}
+
+.btn {
+    font-size: 20px;
+    color: black;
+    background-color: rgb(248, 144, 7);
+}
+
+.btn:hover {
+    background-color:rgb(202, 126, 26)
+}
