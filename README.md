@@ -3,4 +3,6 @@ The form is built using react app and can submit the form and see the result in 
 
 To start the app:
 
-npm start
+1. npm install
+2. cd goodwork-assignment
+3. npm start
